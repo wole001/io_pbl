@@ -18,3 +18,11 @@ Final stage of setup. I encountered an issue which is as a result of the way I c
 Final testing works
 ![image](https://user-images.githubusercontent.com/124367888/216772573-e410ed62-8bc3-4141-96e0-a139c2a09c55.png)
 
+Next I had issue loading php pages. It was returning the error below 
+![image](https://user-images.githubusercontent.com/124367888/216773222-196582e8-9af9-4a75-adc5-52e51564f7d3.png)
+
+Fixed that by putting the correct location of the php installer file
+![image](https://user-images.githubusercontent.com/124367888/216773269-0b51501b-6a14-43ae-80f8-b6ab61a34482.png)
+
+It now works
+![image](https://user-images.githubusercontent.com/124367888/216773292-00f92169-bfee-43da-84b8-196372018e62.png)
