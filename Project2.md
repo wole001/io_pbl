@@ -1,0 +1,3 @@
+##WEB STACK IMPLEMENTATION (LEMP STACK)
+
+Starting a NEW instance on AWS
