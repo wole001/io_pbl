@@ -26,3 +26,9 @@ Fixed that by putting the correct location of the php installer file
 
 It now works
 ![image](https://user-images.githubusercontent.com/124367888/216773292-00f92169-bfee-43da-84b8-196372018e62.png)
+
+Had another error with the MySQL insert due to copying the instruction wrongly 
+![image](https://user-images.githubusercontent.com/124367888/216789279-cc332ced-a633-4fe4-99d0-bbc23fb0c28f.png)
+
+Finally am done. 
+![image](https://user-images.githubusercontent.com/124367888/216789454-15c74cd0-1984-4038-a12d-d96773960ea9.png)
