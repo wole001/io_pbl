@@ -31,3 +31,9 @@ Database Connection now works
 
 ![image](https://user-images.githubusercontent.com/124367888/216972295-8aabea6f-5f3f-4d65-bc76-9d8e8515c563.png)
 
+Testing API with Postman
+
+![image](https://user-images.githubusercontent.com/124367888/216976716-c0abcaf1-cf69-4667-a86e-ba2c9711bfa9.png)
+
+![image](https://user-images.githubusercontent.com/124367888/216977938-aee07658-4482-4d4d-8847-9d30b88ee5b5.png)
+
