@@ -38,4 +38,12 @@ Testing API with Postman
 ![image](https://user-images.githubusercontent.com/124367888/216977938-aee07658-4482-4d4d-8847-9d30b88ee5b5.png)
 
 Frontend Creation 
+Initia error was due to syntax error with the json files. This came in handy https://jsonformatter.org/
+
+![image](https://user-images.githubusercontent.com/124367888/217070082-d5e81381-0a53-40fd-91c4-4c9ddd0096ed.png)
+
+![image](https://user-images.githubusercontent.com/124367888/217074296-2c0458a8-e1a3-46b6-971a-73188b7b0b46.png)
+
+My Application is finally Ready 
+![image](https://user-images.githubusercontent.com/124367888/217076429-d8c6f6c9-d9e6-44f7-b532-fa1a56e4a6d3.png)
 
