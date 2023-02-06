@@ -19,3 +19,15 @@ MOngoDb cluster Creation
 Currently experiencing a Database connection error. I need to fix this to move ahead.
 
 ![image](https://user-images.githubusercontent.com/124367888/216897340-e54aadd8-6a97-4091-a560-b816504f64c9.png)
+
+Found out it was due to Version error
+![image](https://user-images.githubusercontent.com/124367888/216970086-fe9e69e9-68f4-47ba-8b64-7f0f30414a08.png)
+
+![image](https://user-images.githubusercontent.com/124367888/216971200-8db0c9f1-4fd8-4072-a56e-c5e6316e6c22.png)
+
+![image](https://user-images.githubusercontent.com/124367888/216971552-dffa18b3-e6ec-4cfd-8124-bb622f69e0f1.png)
+
+Database Connection now works
+
+![image](https://user-images.githubusercontent.com/124367888/216972295-8aabea6f-5f3f-4d65-bc76-9d8e8515c563.png)
+
