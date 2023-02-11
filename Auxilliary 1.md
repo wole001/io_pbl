@@ -18,4 +18,11 @@ Create and populate the public key
 
 Next create the script to add users
 
+![image](https://user-images.githubusercontent.com/124367888/218265352-b7b4e9d6-6589-48c3-8f19-20216b737a6e.png)
+
+
+![image](https://user-images.githubusercontent.com/124367888/218265646-c6ab47a8-d2ae-48f9-9497-5ba360cbf355.png)
+
+Users  created
+![image](https://user-images.githubusercontent.com/124367888/218265819-c4b58439-a480-4a85-ab7e-8534c1899171.png)
 
