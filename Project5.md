@@ -15,3 +15,10 @@ Changed the ind Address
 
 ![image](https://user-images.githubusercontent.com/124367888/218395663-2cf544b2-495e-4a3a-84df-8f5cebeffc87.png)
 
+Permission Error . Fixed by creating additional User, and granting all IP access via "%" and restarting teh mysql service
+
+![image](https://user-images.githubusercontent.com/124367888/218415035-3748e3da-51cd-4c93-a358-1588e30f62ce.png)
+
+Successful Connection 
+![image](https://user-images.githubusercontent.com/124367888/218415378-b393541d-4ddd-4d0e-ba51-fae8bdef8005.png)
+
