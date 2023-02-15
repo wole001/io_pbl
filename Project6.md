@@ -69,7 +69,9 @@ Default test page loads
 ![image](https://user-images.githubusercontent.com/124367888/219131800-f734a35b-b203-40a3-8833-7bfe85502cc0.png)
 
 6. There was need to configure the Wordpress Config file. This resulted into Connection Error 
-7. ![image](https://user-images.githubusercontent.com/124367888/219141339-c5f8b1d5-7502-4c20-bf70-43e911389cbc.png)
+7. ![image](https://user-images.githubusercontent.com/124367888/219145405-906e73ad-3ddd-4c02-93af-4f2c96abf4ee.png)
+
+8. ![image](https://user-images.githubusercontent.com/124367888/219141339-c5f8b1d5-7502-4c20-bf70-43e911389cbc.png)
 
 completed
 
